@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://kish123:kish123@cluster1-7r2j2.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
